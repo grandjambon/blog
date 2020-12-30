@@ -2,9 +2,9 @@ module.exports = {
   siteMetadata: {
     // edit below
     title: `Grand Jambon`,
-    author: `Grand Jambon`,
-    description: `Random thoughts, where nowhere else would suit.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    author: `Phil Johnston`,
+    description: `Grand Jambon - Football and other stuff`,
+    siteUrl: `https://grandjambon.netlify.com/`,
     social: {
       twitter: `grand_jambon`,
     },
